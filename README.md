@@ -1,5 +1,5 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
-
+[![Build Status](https://dev.azure.com/mathadelaide/FirstYAML/_apis/build/status/98Math.pipelines-dotnet-core)](https://dev.azure.com/mathadelaide/FirstYAML/_build/latest?definitionId=3)
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
